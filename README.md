@@ -1,4 +1,4 @@
-![Logo](images/logo.png)
+![Logo](logo.png)
             **Minecraft Bedrock Servers**
 
 # About project
